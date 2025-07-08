@@ -17,4 +17,4 @@ Repositori ini merupakan hasil proyek Ujian Akhir Semester (UAS) mata kuliah Dat
 
 ## Publikasi Jurnal
 Sebagai luaran dari tugas ini, kami juga menyusun dan mempublikasikan jurnal ilmiah berdasarkan hasil proyek.
-Jurnal tersebut telah berhasil dipublikasikan di jurnal terakreditasi Sinta 5.
+Jurnal tersebut disubmit di jurnal terakreditasi Sinta 5.
